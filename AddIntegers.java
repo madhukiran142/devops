@@ -7,6 +7,9 @@ public class AddIntegers {
 
         int sum = first + second;
 
+	int diff = second - first;
+
         System.out.println("The sum is: " + sum);
+	System.out.println("The difference is: "+ diff);
     }
 }
